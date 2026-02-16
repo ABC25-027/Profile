@@ -1,5 +1,5 @@
 # Profile
--This i sa personal website about myself, 
+-This is a personal website about myself, 
 -it specifies my personal details:
 -Educational details
 -Personal details
