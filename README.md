@@ -7,3 +7,9 @@
 -Work experience
 -My hobbies
 -And everything else about me
+-The webiste was developed with these technologies
+-HTML5
+-CSS3
+-JAVA SCRIPT
+-GIMP
+-JEKYLL
